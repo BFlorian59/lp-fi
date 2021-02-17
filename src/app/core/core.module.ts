@@ -5,7 +5,8 @@ import { FooterComponent } from './components/footer/footer.component';
 import { AppModule } from '../app.module';
 import { AppRoutingModule } from '../app-routing.module';
 import {MatToolbarModule} from '@angular/material/toolbar';
-
+import { StudentService } from './services/http/student.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [HeaderComponent, FooterComponent],
@@ -14,6 +15,8 @@ import {MatToolbarModule} from '@angular/material/toolbar';
     MatToolbarModule
     
   ],
+
+  providers:[StudentService],
   exports:[
     HeaderComponent, 
     FooterComponent

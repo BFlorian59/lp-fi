@@ -1,6 +1,7 @@
-export interface student{
+export interface Student{
     id: number;
     firstname: string;
     lastname: string;
     birthday: number;
+    class: string;
 }
