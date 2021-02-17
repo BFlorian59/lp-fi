@@ -12,8 +12,8 @@ import { HttpClientModule } from '@angular/common/http';
   declarations: [HeaderComponent, FooterComponent],
   imports: [
     CommonModule,
-    MatToolbarModule
-    
+    MatToolbarModule,
+    HttpClientModule
   ],
 
   providers:[StudentService],

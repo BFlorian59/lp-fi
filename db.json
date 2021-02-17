@@ -1,9 +1,9 @@
 {
     "students": [
         {
-            "id": 0,
-            "firstName": "",
-            "lastName": "",
+            "id": 1,
+            "firstName": "Broeks",
+            "lastName": "Florian",
             "birthYear": 15022000,
             "class": "LP-DIM-XXX"
         }
