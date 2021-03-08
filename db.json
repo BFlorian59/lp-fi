@@ -1,11 +1,60 @@
 {
-    "students": [
-        {
-            "id": 1,
-            "firstName": "Broeks",
-            "lastName": "Florian",
-            "birthYear": 15022000,
-            "class": "LP-DIM-XXX"
-        }
-    ]
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Broeks",
+      "lastName": "Florian",
+      "birthYear": 15022000,
+      "class": "LP-DIM-XXX"
+    },
+    {
+      "firstName": "dgkjl",
+      "lastName": "grg",
+      "birthYear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 2
+    },
+    {
+      "firstName": "dgkjl",
+      "lastName": "grg",
+      "birthYear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 3
+    },
+    {
+      "firstName": "dgkjl",
+      "lastName": "grg",
+      "birthYear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 4
+    },
+    {
+      "firstName": "dgkjl",
+      "lastName": "grg",
+      "birthYear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 5
+    },
+    {
+      "firstName": "vbbcv",
+      "lastName": "bccb",
+      "birthYear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 6
+    },
+    {
+      "firstName": "g",
+      "lastName": "cbv",
+      "birthYear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 7
+    },
+    {
+      "firstName": "gffg",
+      "lastName": "gfgf",
+      "birthYear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 8
+    }
+  ]
 }

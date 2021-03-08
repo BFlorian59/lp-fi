@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Broeks",
+      "lastName": "Florian",
+      "birthYear": 15022000,
+      "class": "LP-DIM-XXX"
+    },
+    {
+      "firstname": "dgkjl",
+      "lastname": "grg",
+      "birthyear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 2
+    },
+    {
+      "firstname": "dgkjl",
+      "lastname": "grg",
+      "birthyear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 3
+    },
+    {
+      "firstname": "dgkjl",
+      "lastname": "grg",
+      "birthyear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 4
+    },
+    {
+      "firstname": "dgkjl",
+      "lastname": "grg",
+      "birthyear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 5
+    },
+    {
+      "firstname": "vbbcv",
+      "lastname": "bccb",
+      "birthyear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 6
+    },
+    {
+      "firstname": "g",
+      "lastname": "cbv",
+      "birthyear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 7
+    },
+    {
+      "firstname": "gffg",
+      "lastname": "gfgf",
+      "birthyear": 2000,
+      "class": "LP-DIM-APP",
+      "id": 8
+    },
+    {
+      "firstName": "dfgs",
+      "lastName": "dc",
+      "birthYear": 2000,
+      "class": "LP-DIM-FI",
+      "id": 9
+    }
+  ]
+}
